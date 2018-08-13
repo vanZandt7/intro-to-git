@@ -1,0 +1,19 @@
+Section 2 - Practice Exercises
+Abschnitt 2, Lektion 7
+Instructions:
+
+	•	Create a new directory for your project
+	•	
+	•	Change directories into your project folder
+	•	
+	•	Initialize a Git repository to begin tracking your project
+	•	
+	•	Create some random files for the project (e.g., index.html and style.css)
+	•	
+	•	Check the status of your repository
+	•	
+	•	Add the files to the staging area
+	•	
+	•	Check the status of your repository again
+	•	
+	•	Commit the files to your git repository

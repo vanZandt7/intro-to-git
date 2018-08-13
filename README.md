@@ -38,3 +38,35 @@
 
 - removing a branch
 
+
+---
+
+###### git commands
+
+```
+# list all branches
+git branch
+
+```
+
+```
+# add a branch and switch to the new branch
+git checkout -b &#60branch_name&#62
+
+```
+```
+# add a branch and switch to the new branch
+git checkout -b &#60branch_name&#62
+
+```
+```
+# change the branch
+git checkout &#60branch_name&#62
+
+```
+```
+# merge a branch
+git merge &#60branch_name&#62
+```
+
+---
