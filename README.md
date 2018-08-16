@@ -56,22 +56,22 @@ git branch
 
 ```
 # add a branch and switch to the new branch
-git checkout -b &#60branch_name&#62
+git checkout -b [branch_name]
 
 ```
 ```
 # add a branch and switch to the new branch
-git checkout -b &#60branch_name&#62
+git checkout -b [branch_name]
 
 ```
 ```
 # change the branch
-git checkout &#60branch_name&#62
+git checkout [branch_name]
 
 ```
 ```
 # merge a branch
-git merge &#60branch_name&#62
+git merge [branch_name]
 ```
 
 ---
