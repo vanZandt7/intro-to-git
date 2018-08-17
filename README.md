@@ -1,14 +1,14 @@
 ### Part I
 
 #### Working Directory
-- Area where all of our files and directories and charges are living all the time
+- The Area where all files and directories, and charges are dwelled.
 
 #### Staging Area
 - Files and directories that we explicitly add to the scene [staging area].
 - Kind of a limbo between the working directory and the repository; a double-check area.
 
 #### Git Repository
-- Where all the snapshots are stored.
+- Where the snapshots are stored.
 
 ---
 
@@ -16,11 +16,11 @@
 
 - Adding multiple files of a certain type
 
-- Adding all files in directory (including hidden)  
+- Adding all files
 
 - Removing files
 
-- Ignoring files [.gitignore]
+- Stating files to be ignored in [.gitignore].
 
 ---
 
@@ -43,7 +43,7 @@
 ---
 
 ```
-git commands
+git branch commands
 ```
 ---
 ---
@@ -74,5 +74,4 @@ git merge [branch_name]
 git branch -d [branch_name]
 
 ```
-
 ---
